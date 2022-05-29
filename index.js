@@ -20,7 +20,7 @@ const firstUser = {
         name: 'SMA 03',
         city: 'Tangerang'
     }],
-    favoriteRestaurant: new Set(['Bento', 'Sushi', 'Pancake', 'Eggy', 'Tempura', 'Bento', 'Eggy', 'Padang', 'Tteok', 'Sushi', 'Sushi'])
+    favoriteRestaurant: new Set(['Bento', 'Sushi', 'Pancake', 'Eggy', 'Tempura', 'Padang', 'Tteok'])
 };
 
 const secondUser = {
@@ -46,7 +46,7 @@ const secondUser = {
         name: 'Universitas Maju',
         city: 'Tangerang'
     }],
-    favoriteRestaurant: new Set(['Tempura', 'Bento', 'Sushi','Pancake', 'Padang', 'Katsu', 'Geprek', 'Pancake', 'Eggy'])
+    favoriteRestaurant: new Set(['Tempura', 'Bento', 'Sushi','Pancake', 'Padang', 'Katsu', 'Geprek', 'Eggy'])
 };
 
 // TODO: Masukkan hasil akhir dari kedua user di sini
